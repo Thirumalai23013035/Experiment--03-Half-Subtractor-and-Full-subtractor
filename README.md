@@ -26,17 +26,23 @@ A full subtractor is a combinational circuit that performs subtraction involving
 Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
 ## Procedure
-![Screenshot 2023-11-26 143908](https://github.com/Thirumalai23013035/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153185249/dc6b463c-1afb-4507-ab12-ed5b4d675177)
-![Screenshot 2023-11-26 150550](https://github.com/Thirumalai23013035/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153185249/0e6f8427-f12f-4c4d-bece-8dce60a69efd)
 
+![7481a955-4e38-4f41-874e-af36a2891640](https://github.com/Thirumalai23013035/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153185249/9accd4c9-527c-4a21-972a-f0c6fb99bb4b)
+
+ 
 
 Write the detailed procedure here 
 
 
 ## Program:
-/*
-![Screenshot 2023-11-26 144204](https://github.com/Thirumalai23013035/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153185249/3684fcac-6034-4c67-b129-7b8febbca0ca)
 
+![ae9eaee0-e5a4-48b5-ba43-9b19ce3ac396](https://github.com/Thirumalai23013035/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153185249/814d078e-793e-4114-9d86-df07ee91915b)
+
+
+![6488c31a-e214-4b82-bd9b-9135f74901e4](https://github.com/Thirumalai23013035/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/153185249/e7943d3b-9079-4212-bdf7-ef8a6914a1f6)
+
+/*
+ 
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: 
 RegisterNumber:  
